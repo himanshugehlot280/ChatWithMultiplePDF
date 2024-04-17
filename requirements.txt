@@ -6,3 +6,4 @@ sentence-transformers
 python-dotenv
 langchain-community
 pinecone-client
+langchain_openai
